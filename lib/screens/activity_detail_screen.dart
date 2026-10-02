@@ -50,6 +50,7 @@ class ActivityDetailScreen extends StatelessWidget {
               OutlinedButton(onPressed: onPressed, child: const Text('Natrag') 
                 Navigator.pop(context);
               )
+              
            ],)
           ],
         ),
